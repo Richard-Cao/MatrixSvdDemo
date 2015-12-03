@@ -12,4 +12,5 @@ compile group: 'org.ejml', name: 'all', version: '0.28'
 
 ## Reference
 [Efficient Java Matrix Library (EJML)](http://ejml.org/wiki/index.php?title=Main_Page)
+
 EJML Github: [ejml](https://github.com/lessthanoptimal/ejml)
